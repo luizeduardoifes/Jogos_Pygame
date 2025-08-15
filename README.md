@@ -18,7 +18,7 @@ Pygame é uma biblioteca em Python voltada para o desenvolvimento de jogos 2D. E
 
 Confira a explicação de cada jogo desenvolvido:
 
-- [Brick Breaker](./BRICK_BREAKER.md)
+- [Brick Break](./BRICK_BREAK.md)
 - [Corrida](./CORRIDA.md)
 - [Flapybird](./FLAPYBIRD.md)
 - [Jogo de Tiro](./JOGO_TIRO.md)
